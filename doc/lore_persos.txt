@@ -1,0 +1,99 @@
+## FS -----------> 'Florentin Salomon'
+-> propose d'apprendre un sort en echange de rapporter tel truc dans la map ============= il adore les ptites creatures
+
+## CD
+-> quand tu farm des mobs tu gagnes des "credits" et c'est avec CD que tu peux depenser tes credits pour ameliorer tes stats ------------> 'Celine Delavigne'
+
+## 5
+-> quete principale : premier pnj de l'ecole a qui on parle, elle envoit vers CD pour commencer la quete principale ----------> 'Sylvestre Aubin'
+
+## 20
+-> une quete du genre recup un truc et lui rendre ------------> 'Agatha Duncan'
+
+## 12 et 18
+-> quete pour pouvoir ouvrir les portes des jardins (il faut etre tel niveau ou un truc du genre) ------------> 'Balthazar Modeste' et 'Neron Melvin'
+
+## 8
+-> quete en lien avec la quete principale : peut etre un indice sur le lieu du grimoire msc derriere le bat ------------> 'Paola Riza'
+
+## 15
+-> quete de farm de mob en dehors de la ville (les terres en dessous) ------------> 'Dexter Modestine'
+
+## 2
+-> quete aller dans un bat pour aller chercher un grimoire "CSFML" ------------> 'Marcellin Vidal' et c'est un gros flemmard quand il parle
+
+## 16
+-> perso d'edouard, il peut donner du cafe dans le "bde" pour heal ------------> "Eud Philemon"
+
+## pour 1, 3, 4, 6, 7, 9, 10, 11, 13, 14, 17, 19 vu qu'ils donnent pas de quetes on donne pas de prenoms osef
+
+## pour les mobs on peut trouver une spritesheet de bug qui represente des segfault
+
+## La normalement le boug va vers l'ecole -> peut etre une fleche pour le guider vers l'academie ou une minimap
+
+
+
+
+
+## 1
+-> "Tiens, tu dois etre le nouvel eleve ! Voici un objet qui te servira toute l'annee, autant pour apprendre que pour te defendre en cas de besoin."
+
+## 2
+-> "Quel beau temps pour se balader a Goldenleaf"
+
+## 3
+-> les deux gardes "Halte ! Cet endroit n'est pas autorise aux eleves de Codspell ! Circulez !!"
+
+## 4
+-> "Elle represente qui cette statue deja ?"
+
+## 5 [Sylvestre Aubin]
+-> "Bienvenue a CodSpell ! Tu dois etre le nouvel arrivant. Je t'en pris, entre dans l'ecole, un professeur t'y attend."
+
+## 6
+-> "J'espere qu'il va pas pleuvoir aujourd'hui.."
+
+## 7
+-> "Le meilleur forgeron de la ville est ici !"
+
+## 9
+-> "Pourquoi ce jardin est ferme ?"
+
+## 10
+-> "quelqu'un aurait vu Aife ??"
+
+## 11
+-> "Je me demande ce qu'on va manger ce soir.."
+
+## 12
+-> "Ces jardins ne sont pas ouvert pour l'instant"
+
+## 13
+-> "Tout le monde parle d'un certain 'F' mais personne ne sait ou il est."
+
+## 14
+-> ya plus de 14 ca faisait bcp de pnj mdrr
+
+## 15
+-> "Bienvenue a Goldenleaf ! Si vous cherchez l'Academie CodSpell, elle se situe au Nord-Est de la ville."
+-> "Si vous voulez ameliorer votre niveau magique, vous pouvez vous exercer en dehors du village, vous y trouverez des monstres"
+
+## 16
+-> "Il est bon mon cafe, venez gouter mon cafe !"
+
+## 17
+-> 
+
+## 18
+-> "Ces jardins ne sont pas ouvert pour l'instant"
+
+## 19
+-> pareil que pour le 14 ou alors on le met dans un batiment
+
+## 20
+-> "Tu pourrais aller me chercher mon grimoire ? Je crois qu'il est au Nord-Ouest de la ville..."
+
+## Celine Delavigne
+-> "Bonjour, je suis la directrice de Codspell, je vois que tu t'es entraine, voudrais-tu que je te montre de meilleurs sorts ?"
+
+## 
